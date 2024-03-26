@@ -12,7 +12,7 @@ uptodown-dlurl = "https://nyx-music-player.en.uptodown.com/android"
 arch = "both"
 
 [MemeGenerator]
-enabled = true
+enabled = false
 version = "auto"
 uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
 
@@ -24,6 +24,6 @@ integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "RExtended"
 build-mode = "both"
-version = "19.05.36"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+version = "latest"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
