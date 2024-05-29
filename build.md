@@ -1,6 +1,5 @@
-Music-anddea (arm-v7a): 7.01.52  
-Music-anddea (arm64-v8a): 7.01.52  
-YouTube-Extended: 19.07.40  
+Music-anddea (arm-v7a): 7.03.51  
+Music-anddea (arm64-v8a): 7.03.51  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
@@ -9,11 +8,9 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: anddea/revanced-integrations-0.151.0.apk  
-Patches: anddea/revanced-patches-2.224.0.jar  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.224.0)
+Integrations: anddea/revanced-integrations-0.152.0.apk  
+Patches: anddea/revanced-patches-2.225.0.jar  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v2.225.0)  
 
-CLI: inotia00/revanced-cli-4.6.1-all.jar  
-Integrations: YT-Advanced/revanced-integrations-0.148.4.apk  
-Patches: YT-Advanced/revanced-patches-2.220.10.jar  
-[Changelog](https://github.com/YT-Advanced/ReX-patches/releases/tag/v2.220.10)  
+Skipped:  
+Patches: YT-Advanced/revanced-patches-2.220.10.jar    
