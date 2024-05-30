@@ -27,8 +27,8 @@ rv-brand = "RExtended"
 build-mode = "module"
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+# uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # arch = "both"
 
 [YouTube-Extended]
@@ -39,7 +39,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # arch = "both"
 
 [Music-Extended]
@@ -50,7 +50,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "REx Music"
 build-mode = "module"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 # arch = "both"
 
 [Music-Extended]
@@ -61,7 +61,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 # arch = "both"
 
 
