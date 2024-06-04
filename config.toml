@@ -18,7 +18,7 @@ uptodown-dlurl = "https://meme-generator-free.en.uptodown.com/android"
 
 [YouTube-RExtended]
 enabled = true
-app-name = "YouTube"
+app-name = "RexTube"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
@@ -31,7 +31,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 # uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # arch = "both"
 
-[YouTube-Extended]
+[YTExtended]
+enabled = true
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -43,6 +44,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # arch = "both"
 
 [Music-Extended]
+enabled = true
 app-name = "RExMusic"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
@@ -53,7 +55,8 @@ build-mode = "module"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 # arch = "both"
 
-[Music-Extended]
+[YTMusic]
+enabled = true
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -73,7 +76,8 @@ patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea"
 build-mode = "module"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+# uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 arch = "arm64-v8a"
 
 [YouTube-anddea]
